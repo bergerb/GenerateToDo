@@ -4,6 +4,8 @@ ScriptCs script to generate base TODO MarkDown file for task management
 
 scriptcs .\GenerateToDo.csx
 
+Relies on ScriptCS to be installed on the system
+
 Generates the following file:
 
 My Documents\TODO{MM-DD-YYYY}.md
